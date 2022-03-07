@@ -1,6 +1,48 @@
 # Desafio-primeiro-repositorio-DIO
   
+  
+ #  🚀 Manipulando  DOM  com Javascript  
     
+
+![image](https://user-images.githubusercontent.com/94201226/156950007-100c6523-1508-432f-829b-89aa871d182d.png)
+
+![image](https://user-images.githubusercontent.com/94201226/156950076-53da8e0f-0161-4204-a443-b1c36da83c0c.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 People
